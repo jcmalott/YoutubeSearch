@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from "react";
+import {useState, useEffect} from "react";
 import YoutubeSearch from "../api/YoutubeSearch";
 
 const KEY = "AIzaSyDWS-sSI4V6lz35dZ9sau4ET58CIqDp-ow";
